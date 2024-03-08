@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @izabelamaria24
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React and Node
-- 💞️ I’m looking to collaborate on full stack projects
+- 👀 I’m interested in any subject, from mathematics to algorithms and deep learning
+- 💞️ I’m looking to collaborate on full stack projects or machine learning projects
 - 📫 How to reach me: 
    Instagram: izabela__maria24
 
